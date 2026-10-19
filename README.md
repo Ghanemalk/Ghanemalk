@@ -19,6 +19,6 @@ running.
 
 TypeScript · React Native (Expo) · PHP · SQL (MySQL, MariaDB, PostgreSQL)
 
-### Elsewhere
+### Support my work
 
-[ghanem.world](https://ghanem.world) · [Sponsor my open-source work](https://github.com/sponsors/Ghanemalk)
+If my open-source work helps you, you can [sponsor it on GitHub](https://github.com/sponsors/Ghanemalk).
